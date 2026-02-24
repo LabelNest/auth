@@ -1,0 +1,5 @@
+{
+  "name": "LabelNest Identity",
+  "description": "Auth Router Concierge for LabelNest products: AnnoNest, NestLens, and NestResolve.",
+  "requestFramePermissions": []
+}

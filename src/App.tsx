@@ -13,9 +13,9 @@ function cn(...inputs: ClassValue[]) {
 }
 
 const PRODUCTS: { id: Product; name: string; description: string; url: string }[] = [
-  { id: 'AnnoNest', name: 'AnnoNest', description: 'Annotation & data intelligence platform', url: 'https://anno.labelnest.in' },
-  { id: 'NestLens', name: 'NestLens', description: 'Research & data intelligence platform', url: 'https://lens.labelnest.in' },
-  { id: 'NestResolve', name: 'NestResolve', description: 'Issue, quality & resolution workflows', url: 'https://resolve.labelnest.in' },
+  { id: 'AnnoNest', name: 'AnnoNest', description: 'Annotation & data intelligence platform', url: 'https://annonest.labelnest.in' },
+  { id: 'NestLens', name: 'NestLens', description: 'Research & data intelligence platform', url: 'https://nestlens.labelnest.in' },
+  { id: 'NestResolve', name: 'NestResolve', description: 'Issue, quality & resolution workflows', url: 'https://nestresolve.labelnest.in' },
 ];
 
 export default function App() {
